@@ -91,4 +91,6 @@ If you're working on:
 
 ---
 
-🧭 *“Not everything that counts can be counted, and not everything that can be counted counts.”* — William Bruce Cameron
+*“The formula 'Two and two make five' is not without its attractions.”* — Feodor Dostoevsky
+
+*“Even in the valley of the shadow of death, two and two do not make six.”* — Leo Tolstoy
