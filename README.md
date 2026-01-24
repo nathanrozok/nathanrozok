@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Nathan Rozok — AI Product Manager | Ethical Innovator | Strategic Thinker
+# 👋 Hi, I'm Nathan Rozok — Technical Product Manager | Ethical Innovator | Strategic Thinker
 
 Welcome to my GitHub! I'm a product-minded leader with over a decade of experience bridging business goals with technical execution — currently focused on building **AI-powered, data-driven solutions** that deliver real value without compromising efficiency or ethics.
 
@@ -6,7 +6,7 @@ Welcome to my GitHub! I'm a product-minded leader with over a decade of experien
 
 ### 🧠 What I Do
 
-As an **AI Product Manager**, I specialize in:
+As an **Technical Product Manager**, I specialize in:
 - Translating complex business needs into scalable, ML-backed product roadmaps
 - Leading cross-functional teams through the full product lifecycle
 - Applying Lean, Agile, and ethical frameworks to AI/ML deployment
